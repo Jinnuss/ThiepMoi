@@ -1,0 +1,19 @@
+.container {
+  position: relative;
+  text-align: center;
+
+}
+
+.img {
+  height: 100vh;
+}
+
+.link {
+  position: absolute;
+  padding: 20px;
+  color: red;
+  background-color: red;
+  top: 20%;
+  left: 50%;
+
+}
